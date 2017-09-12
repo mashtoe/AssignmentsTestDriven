@@ -8,5 +8,6 @@ namespace CollectionOfShops
 {
     public class ShopCollection : IShopCollection
     {
+        // Operation
     }
 }
