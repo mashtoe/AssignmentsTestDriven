@@ -14,3 +14,19 @@ c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrive
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.csproj.CoreCompileInputs.cache
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.dll
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.pdb
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDrivenTests.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDrivenTests.pdb
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.exe
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.pdb
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.exe.config
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.dll
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.pdb

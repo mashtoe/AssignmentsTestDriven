@@ -33,31 +33,54 @@ namespace AssignmentsTestDriven.Tests
         }
 
         [TestMethod()]
+        [ExpectedException(typeof (InvalidOperationException))]
         public void GetTest2()
         {
             ISortedBag bag = new SortedBag();
-            try
-            {
+           
                 int value = bag.Get();
-                Assert.Fail();
-            }
-            catch (InvalidOperationException ex)
-            {
-
-            }
+              
+            
+            
         }
 
 
         [TestMethod()]
-        public void RemoveTest()
+        public void SmallestIntTest()
         {
-            Assert.Fail();
+            ISortedBag bag = new SortedBag();
+            bag.Add(1);
+            bag.Add(2);
+            bag.Add(3);
+            Assert.AreEqual(1, bag.Get());
+            bag.Remove();
+            Assert.AreEqual(2, bag.Get());
         }
 
         [TestMethod()]
-        public void SizeTest()
+        public void RemoveAndCountTest()
         {
-            Assert.Fail();
+            ISortedBag bag = new SortedBag();
+            bag.Add(1);
+            bag.Add(2);
+            bag.Add(3);
+            Assert.AreEqual(3, bag.Count);
+            bag.Remove();
+            Assert.AreEqual(2, bag.Count);
+
+        }
+
+        [TestMethod()]
+        public void RemoveAndCountWithTwoEqualInts()
+        {
+
+            ISortedBag bag = new SortedBag();
+            bag.Add(1);
+            bag.Add(1);
+            bag.Add(3);
+            Assert.AreEqual(3, bag.Count);
+            bag.Remove();
+            Assert.AreEqual(2, bag.Count);
         }
     }
 }

@@ -13,6 +13,6 @@ namespace AssignmentsTestDriven
         void Add(int value);
         void Remove();
         int Get();
-        int Size();
+        
     }
 }
