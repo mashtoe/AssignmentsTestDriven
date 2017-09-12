@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace AssignmentsTestDriven
 {
-    interface IBag
+    public interface ISortedBag
     {
-        //eweqweqw
+        int Count{ get; }
+
+        void Add(int value);
+        void Remove();
+        int Get();
+        int Size();
     }
 }

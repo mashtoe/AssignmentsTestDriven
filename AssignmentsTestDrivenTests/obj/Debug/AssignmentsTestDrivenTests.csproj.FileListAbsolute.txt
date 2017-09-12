@@ -1,0 +1,16 @@
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDrivenTests.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDrivenTests.pdb
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.exe
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.pdb
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\AssignmentsTestDriven.exe.config
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.csprojResolveAssemblyReference.cache
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.csproj.CoreCompileInputs.cache
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.dll
+c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrivenTests\obj\Debug\AssignmentsTestDrivenTests.pdb
