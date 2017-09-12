@@ -5,3 +5,10 @@ c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDrive
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.csproj.CoreCompileInputs.cache
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.exe
 c:\users\casperrødgaard\source\repos\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.pdb
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\bin\Debug\AssignmentsTestDriven.exe.config
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\bin\Debug\AssignmentsTestDriven.exe
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\bin\Debug\AssignmentsTestDriven.pdb
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.exe
+C:\Users\Stefan Olsen\Documents\GitHub\AssignmentsTestDriven\AssignmentsTestDriven\AssignmentsTestDriven\obj\Debug\AssignmentsTestDriven.pdb

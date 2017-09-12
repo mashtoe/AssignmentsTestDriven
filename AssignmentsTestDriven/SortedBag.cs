@@ -25,17 +25,14 @@ namespace AssignmentsTestDriven
 
         public int Get()
         {
+           
             return bag.Min();
         }
 
         public void Remove()
         {
-            throw new NotImplementedException();
+            bag.Remove(bag.Min());
         }
 
-        public int Size()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
