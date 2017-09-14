@@ -42,10 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BagItem.cs" />
     <Compile Include="ISortedBag.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SortedBag.cs" />
+    <Compile Include="SortedBagNoList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

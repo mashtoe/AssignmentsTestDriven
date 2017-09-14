@@ -14,7 +14,7 @@ namespace AssignmentsTestDriven.Tests
         [TestMethod()]
         public void AddTest()
         {
-            ISortedBag bag = new SortedBag();
+            ISortedBag bag = new SortedBagNoList();
             Assert.AreEqual(0,bag.Count);
             bag.Add(7);
             Assert.AreEqual(1,bag.Count);
@@ -24,7 +24,8 @@ namespace AssignmentsTestDriven.Tests
         [TestMethod()]
         public void GetTest()
         {
-            ISortedBag bag = new SortedBag();
+            
+            ISortedBag bag = new SortedBagNoList();
             bag.Add(20);
             bag.Add(17);
             bag.Add(17);
@@ -36,7 +37,7 @@ namespace AssignmentsTestDriven.Tests
         [ExpectedException(typeof (InvalidOperationException))]
         public void GetTest2()
         {
-            ISortedBag bag = new SortedBag();
+            ISortedBag bag = new SortedBagNoList();
            
                 int value = bag.Get();
               
@@ -48,7 +49,7 @@ namespace AssignmentsTestDriven.Tests
         [TestMethod()]
         public void SmallestIntTest()
         {
-            ISortedBag bag = new SortedBag();
+            ISortedBag bag = new SortedBagNoList();
             bag.Add(1);
             bag.Add(2);
             bag.Add(3);
@@ -74,7 +75,7 @@ namespace AssignmentsTestDriven.Tests
         public void RemoveAndCountWithTwoEqualInts()
         {
 
-            ISortedBag bag = new SortedBag();
+            ISortedBag bag = new SortedBagNoList();
             bag.Add(1);
             bag.Add(1);
             bag.Add(3);
