@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CollectionOfShops
+namespace BusCompany
 {
-    public class IShopCollection
+    public interface IBusPay
     {
-        //Operation
+        double TotalCost(int noOfPassengers, int noOfKilometers);
     }
 }
