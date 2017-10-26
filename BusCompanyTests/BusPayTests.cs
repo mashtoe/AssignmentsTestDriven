@@ -29,7 +29,7 @@ namespace BusCompany.Tests
             IBusPay busPay = new BusPay();
             
 
-            Assert.AreEqual(162, busPay.TotalCost(2, 10));
+            Assert.AreEqual(162, busPay.TotalCost(2, 100));
         }
 
         [TestMethod()]
